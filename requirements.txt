@@ -1,4 +1,6 @@
-tensorflow-gpu==1.8.0
-numpy==1.14.1
-Pillow==6.2.1
-argparse==1.1
+matplotlib==3.3.0
+numpy==1.25.1
+Pillow==9.3.0
+torch==2.0.0+cu117
+torchvision==0.15.1+cu117
+tqdm==4.65.0
